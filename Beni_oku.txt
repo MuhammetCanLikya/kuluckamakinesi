@@ -1,0 +1,6 @@
+Kod DHT22 sensörü için yazýlmýþtýr eðer sensörünüz DHT11 ise koddaki DHT22 kýsýmlarýný DHT11 olarak deðiþtirin.
+Kodun baþarýlý bir þekilde çalýþmasý için DHT sensör kütüphanesini baþarýlý bir þekilde kurmanýz gerekmektedir.
+Röle kartýnýza göre sýcaklýðý büyüktür iþareti yerine küçüktür kullanabilirsiniz.
+Yumurta viyollerinin çevirme motoru çalýþma halindeyken yarým turunu kaç milisaniyede bitiriyor hesaplayýn ve sonra RELAYPINM olan kýsmýn altýndaki "delay(18500);" komut satýrýndaki sayýyla deðiþtirin.
+Arduinonuzu PC'nize baðlayarak seri port ekranýndan sýcaklýk ve nem deðerlerine ulaþabilirsiniz
+Daha fazla bilgi için finikeli_--@hotmail.com adresinden bize ulaþabilirsiniz.
